@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aman-kumar-3068b1252/](https://www.linkedin.com/in/aman-kumar-3068b1252/)
 
-- 💬 Ask me about **Github, git, linux, ci/cd pipeline and Pyhton**
+- 💬 Ask me about **Docker,Github, git, linux, ci/cd pipeline,Java and Python **
 
 - 📫 How to reach me **amankumarkanu87@gmail.com**
 

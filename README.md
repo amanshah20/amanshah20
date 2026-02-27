@@ -1,32 +1,117 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
+<!-- ====================== MATRIX TOP BANNER ====================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanshah20&label=Profile%20views&color=0e75b6&style=flat" alt="amanshah20" /> </p>
-
-- 🌱 I’m currently learning **Python, React**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aman-kumar-3068b1252/](https://www.linkedin.com/in/aman-kumar-3068b1252/)
-
-- 💬 Ask me about ** Docker,Github, git, gitlab, ShellScripting,linux,ci/cd pipeline,Java and Python **
-
-- 📫 How to reach me **amankumarkanu87@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar" height="30" width="40" /></a>
-<a href="https://fb.com/aman shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman shah" height="30" width="40" /></a>
-<a href="https://instagram.com/amanshah2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanshah2204" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aman kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman kumar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/matrix-banner.png" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- ====================== HEADER ====================== -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanshah20&show_icons=true&locale=en&layout=compact" alt="amanshah20" /></p>
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h3 align="center">🚀 DevOps Engineer | Full Stack Developer | Cloud Architect</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Automation+Expert;Cloud+Infrastructure+Engineer;Docker+%7C+Kubernetes+%7C+AWS;CI%2FCD+Pipeline+Builder;MERN+Stack+Developer" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanshah20&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/amanshah20?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/amanshah20?style=for-the-badge&color=yellow" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanshah20&" alt="amanshah20" /></p>
+---
+
+<img align="right" width="380" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
+
+# 🧠 About Me
+
+- 🎓 B.Tech Software Engineering (DevOps Specialization)
+- ☁️ Deploying scalable infrastructure on **AWS**
+- 🐳 Containerizing microservices with **Docker**
+- ⚙️ Managing clusters using **Kubernetes**
+- 🚀 Automating pipelines via **GitHub Actions & CI/CD**
+- 📊 Monitoring with **Nagios**
+- 🔥 Passionate about production-grade deployments
+
+---
+
+# 🚀 DEVOPS DASHBOARD
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanshah20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanshah20&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshah20&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanshah20&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### 🛠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nagios/nagios-original.svg" width="48"/>
+</p>
+
+---
+
+# 🏆 Production Projects
+
+| Project | Stack | Description |
+|----------|--------|-------------|
+| DevTinder | MERN + Docker | Developer Networking Platform |
+| AutoDeploy Dashboard | Shell + Docker | CI/CD Automation System |
+| TechNova DevOps Pipeline | Jenkins + AWS | Enterprise Deployment Framework |
+| Cron Scheduler | Shell + HTML | Dockerized Cron Monitoring |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aman-kumar-3068b1252/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/amanshah20">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="mailto:amankumarkanu87@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+</p>

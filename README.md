@@ -1,7 +1,7 @@
 <!-- ====================== MATRIX TOP BANNER ====================== -->
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/matrix-banner.png](https://png.pngtree.com/png-vector/20220918/ourmid/pngtree-beautiful-green-banner-with-matrix-of-binary-code-zeroes-and-ones-vector-png-image_25421660.jpg)" width="100%" />
+  <img src="https://img.freepik.com/free-vector/digital-binary-code-tech-concept-background-design_1017-60249.jpg?semt=ais_hybrid&w=740&q=80" width="100%" />
 </p>
 
 <!-- ====================== HEADER ====================== -->

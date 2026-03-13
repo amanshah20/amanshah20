@@ -1,7 +1,7 @@
 <!-- ====================== MATRIX TOP BANNER ====================== -->
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/digital-binary-code-tech-concept-background-design_1017-60249.jpg?semt=ais_hybrid&w=740&q=80" width="100%"  height="250px"/>
+  <img src="https://img.freepik.com/free-vector/digital-binary-code-tech-concept-background-design_1017-60249.jpg?semt=ais_hybrid&w=740&q=80" width="100%"  height="150px"/>
 </p>
 
 <!-- ====================== HEADER ====================== -->
